@@ -1,1 +1,1 @@
-# solana-trading-sandbox
+# ai-agent-vacuum-assignment
